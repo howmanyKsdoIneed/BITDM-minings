@@ -12,3 +12,4 @@ This repo is used to store BIT data mining mutal assessed assignments.
 目前已经存储的作业：
 
 1. 探索性分析与预处理
+2. 频繁模式与关联规则
