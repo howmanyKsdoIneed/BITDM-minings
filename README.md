@@ -8,6 +8,7 @@ This repo is used to store BIT data mining mutal assessed assignments.
 
 - [Wine Review](https://www.kaggle.com/zynicide/wine-reviews)
 - [Oakland Crime Statistics 2011-2016](https://www.kaggle.com/cityofoakland/oakland-crime-statistics-2011-to-2016)
+- [Chicago Building Violations](https://www.kaggle.com/chicago/chicago-building-violations)
 
 目前已经存储的作业：
 
